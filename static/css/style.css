@@ -1167,12 +1167,13 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
  * Footer 12 stylesheet
  * */
 .footer-12 {
+    background: rgb(50, 205, 50);
   padding-top: 0px;
   padding-bottom: 0px;
   text-align: center;
   font-size: 84.3px;
   font-weight: normal;
-  color: rgba(44, 62, 80, 0.2);
+  color: rgba(34, 34, 34, 1);
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 800;
   letter-spacing: -2px;
@@ -1197,7 +1198,8 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   .footer-12 {
     font-size: 84px;
     font-weight: normal;
-    color: rgba(44, 62, 80, 0.2);
+    /*color: rgba(44, 62, 80, 0.2);*/
+    color: #111;
     font-weight: 800;
   }
 }
@@ -1210,7 +1212,8 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   .footer-12 {
     font-size: 56px;
     font-weight: normal;
-    color: rgba(44, 62, 80, 0.2);
+    /*color: rgba(44, 62, 80, 0.2);*/
+    color: #111;
     font-weight: 800;
   }
 }
@@ -1218,7 +1221,8 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   .footer-12 {
     font-size: 36px;
     font-weight: normal;
-    color: rgba(44, 62, 80, 0.2);
+    /*color: rgba(44, 62, 80, 0.2);*/
+    color: #111;
     font-weight: 800;
   }
   .footer-12 [class*="fui-"] {
@@ -1229,7 +1233,8 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   .footer-12 {
     font-size: 26px;
     font-weight: normal;
-    color: rgba(44, 62, 80, 0.2);
+    /*color: rgba(44, 62, 80, 0.2);*/
+    color: #111;
     padding: 10px;
     font-weight: 800;
   }
@@ -1248,7 +1253,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   right: 0;
   padding-top: 15px;
   padding-bottom: 15px;
-  background: #f4f5f6;
+  background: #222;
   text-align: center;
   font-size: 16px;
   font-weight: normal;
