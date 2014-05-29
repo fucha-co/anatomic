@@ -25,7 +25,7 @@ a {
   transition: color 0.25s, background 0.25s;
 }
 a:hover {
-  color: #1abc9c;
+  color: limegreen;
   text-decoration: none;
 }
 h1,
