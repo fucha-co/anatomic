@@ -1,3 +1,0 @@
-Sock-Height
-===========
-sockheight.com
